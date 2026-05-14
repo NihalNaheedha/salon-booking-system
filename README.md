@@ -64,7 +64,14 @@ The system was built to replace manual appointment scheduling at a real local sa
 
 ## 📸 Screenshots
 
-> *(Add screenshots of your pages here after uploading to GitHub)*
+> <img width="1905" height="912" alt="image" src="https://github.com/user-attachments/assets/96e8785d-7b26-425c-8a04-872457dad239" />
+> <img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/2826019e-1bc5-4a1a-86d5-a2e16d4720d9" />
+> <img width="1895" height="902" alt="image" src="https://github.com/user-attachments/assets/cecf0b7a-b6bc-4626-8002-73ca8ee44eb0" />
+> <img width="1868" height="907" alt="image" src="https://github.com/user-attachments/assets/99e21bad-d7ad-48c8-ac6b-785ea01ae94b" />
+
+
+
+
 
 | Page | Description |
 |------|-------------|
